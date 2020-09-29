@@ -5,15 +5,16 @@
 
 Tech Stack:
 
+- Programming Language: Java, C#, HTML, JavaScript
 - Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, Jquery
-- Database: Oracle Sql, MySql
+- Database: MySql
 - Build tools: Maven
 - Servers: Tomcat
 - Cloud: AWS
 - Version Control: Git
 - Prototyping: JustInMind
-- IDE: Intellij IDEA, VS Code, Eclips, Netbeans
+- IDE: Intellij IDEA, VS Code, Visual Studio Community 2019, Eclips, Netbeans
 - Operating System: Linux, Mac, Windows
 - Project Management:Scrum
 
